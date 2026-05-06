@@ -1,1 +1,4 @@
-
+The lab work required me to determine which factors brought about survival on the Titanic while I studied data patterns. I used Exploratory Data Analysis (EDA) because it allows me to visualize data through bar 
+charts and histograms which helps me study how variables such as gender and passenger class and age interact with each other. The data set required me to evaluate its missing values together with its distribution 
+patterns to achieve a complete understanding. The results showed clear trends, such as higher survival rates among women and first-class passengers, indicating that both social class and gender played a major role in 
+survival outcomes. The findings showed which features would predict later modeling work because EDA discovered patterns that required further investigation.
