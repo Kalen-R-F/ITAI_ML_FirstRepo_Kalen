@@ -1,1 +1,4 @@
-
+The machine learning model for predicting Titanic disaster passenger survival was developed during the lab session. The data processing stage required me to address missing values while using one-hot encoding to 
+transform categorical data into a format suitable for model building. I built classification models through training that included logistic regression and decision tree methods to forecast survival based on age, 
+class, and gender characteristics. The model demonstrated effective survival prediction capabilities through its ability to identify patterns in the data which showed that female and higher-class status provided 
+strong survival advantages. The study proved that survival prediction constitutes a binary classification task, in which essential features determine how well the model performs.
